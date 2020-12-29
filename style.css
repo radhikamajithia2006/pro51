@@ -1,0 +1,21 @@
+body {
+    background-color: beige;
+}
+
+h3 {
+    color: coral;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.grid {
+    border-radius: 20px;
+    background-color: #000000;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    
+}
